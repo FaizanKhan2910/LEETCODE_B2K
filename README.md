@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/0050-powx-n) |
 | [0067-add-binary](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/0070-climbing-stairs) |
+| [0171-excel-sheet-column-number](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/0171-excel-sheet-column-number) |
 | [0202-happy-number](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/0202-happy-number) |
 | [0367-valid-perfect-square](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/0367-valid-perfect-square) |
 | [0877-stone-game](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/0877-stone-game) |
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0067-add-binary](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/0067-add-binary) |
 | [0076-minimum-window-substring](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/0076-minimum-window-substring) |
+| [0171-excel-sheet-column-number](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/0171-excel-sheet-column-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/0389-find-the-difference) |
 | [0424-longest-repeating-character-replacement](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/0424-longest-repeating-character-replacement) |
