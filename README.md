@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/0070-climbing-stairs) |
 | [0152-maximum-product-subarray](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/0152-maximum-product-subarray) |
+| [0338-counting-bits](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/0338-counting-bits) |
 | [0877-stone-game](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/0877-stone-game) |
 ## Linked List
 |  |
@@ -291,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/0067-add-binary) |
 | [0191-number-of-1-bits](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/0191-number-of-1-bits) |
+| [0338-counting-bits](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/0338-counting-bits) |
 | [0389-find-the-difference](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/0389-find-the-difference) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1486-xor-operation-in-an-array](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/1486-xor-operation-in-an-array) |
