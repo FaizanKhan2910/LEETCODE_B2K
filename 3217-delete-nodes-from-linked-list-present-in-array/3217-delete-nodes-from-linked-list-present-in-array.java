@@ -14,9 +14,9 @@ class Solution {
         ListNode dummy = new ListNode(0);
         dummy.next = head;
         ListNode curr = dummy;
-        for(int num : nums)
+        for(int i =0 ; i< nums.length; i++)
         {
-            set.add(num);
+            set.add(nums[i]);
         }
         while(curr.next != null)
         {
