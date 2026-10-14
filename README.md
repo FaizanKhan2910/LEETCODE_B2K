@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2239-find-closest-number-to-zero](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/2239-find-closest-number-to-zero) |
 | [2574-left-and-right-sum-differences](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/2574-left-and-right-sum-differences) |
 | [2733-neither-minimum-nor-maximum](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/2733-neither-minimum-nor-maximum) |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3668-restore-finishing-order](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/3668-restore-finishing-order) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Matrix
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0445-add-two-numbers-ii](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/0445-add-two-numbers-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/0876-middle-of-the-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Recursion
 |  |
 | ------- |
@@ -166,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1832-check-if-the-sentence-is-pangram](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/2215-find-the-difference-of-two-arrays) |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3668-restore-finishing-order](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/3668-restore-finishing-order) |
 | [3945-digit-frequency-score](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/3945-digit-frequency-score) |
 ## Two Pointers
