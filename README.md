@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/0067-add-binary) |
+| [0412-fizz-buzz](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/0412-fizz-buzz) |
 | [1688-count-of-matches-in-tournament](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/1688-count-of-matches-in-tournament) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/2181-merge-nodes-in-between-zeros) |
 ## Math
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/0171-excel-sheet-column-number) |
 | [0202-happy-number](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/0202-happy-number) |
 | [0367-valid-perfect-square](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/0367-valid-perfect-square) |
+| [0412-fizz-buzz](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/0412-fizz-buzz) |
 | [0445-add-two-numbers-ii](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/0445-add-two-numbers-ii) |
 | [0492-construct-the-rectangle](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/0492-construct-the-rectangle) |
 | [0504-base-7](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/0504-base-7) |
@@ -259,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/0171-excel-sheet-column-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/0389-find-the-difference) |
+| [0412-fizz-buzz](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/0424-longest-repeating-character-replacement) |
 | [0434-number-of-segments-in-a-string](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/0434-number-of-segments-in-a-string) |
 | [0504-base-7](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/0504-base-7) |
