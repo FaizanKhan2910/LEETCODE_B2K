@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/0202-happy-number) |
 | [0367-valid-perfect-square](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/0367-valid-perfect-square) |
 | [0445-add-two-numbers-ii](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/0445-add-two-numbers-ii) |
+| [0492-construct-the-rectangle](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/0492-construct-the-rectangle) |
 | [0877-stone-game](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/0877-stone-game) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
