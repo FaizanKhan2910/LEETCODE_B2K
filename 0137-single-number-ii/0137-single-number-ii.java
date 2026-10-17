@@ -1,23 +1,15 @@
 class Solution {
     public int singleNumber(int[] nums) {
+       
         int result = 0;
-        for(int k = 0 ; k <= 31 ; k++){
-              int temp = (1 << k);
-            int countOfOne = 0 , countOfZero = 0;
-
-            for(int num : nums){
-              
-
-                if( (temp & num) == 0){
-                    countOfZero++; 
-                }
-                else {
-                    countOfOne++;
-                }
+        for(int i = 0 ; i < 32 ; i++){
+              int sum = 0;
+     for(int num : nums){
+                sum += (num >> i) & 1;
 
             }
-            if(countOfOne % 3 == 1){
-                result = result | (temp); 
+            if(sum % 3 == 1){
+                result = result | (1 << i); 
             }
         }
 
