@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/0054-spiral-matrix) |
 | [0084-largest-rectangle-in-histogram](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/0084-largest-rectangle-in-histogram) |
 | [0128-longest-consecutive-sequence](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/0128-longest-consecutive-sequence) |
+| [0137-single-number-ii](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/0137-single-number-ii) |
 | [0152-maximum-product-subarray](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/0152-maximum-product-subarray) |
 | [0217-contains-duplicate](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/0219-contains-duplicate-ii) |
@@ -311,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/0067-add-binary) |
+| [0137-single-number-ii](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/0137-single-number-ii) |
 | [0190-reverse-bits](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/0191-number-of-1-bits) |
 | [0338-counting-bits](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/0338-counting-bits) |
