@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1310-xor-queries-of-a-subarray](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/1310-xor-queries-of-a-subarray) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
@@ -323,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/0338-counting-bits) |
 | [0389-find-the-difference](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/0389-find-the-difference) |
 | [0693-binary-number-with-alternating-bits](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/0693-binary-number-with-alternating-bits) |
+| [1310-xor-queries-of-a-subarray](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/1310-xor-queries-of-a-subarray) |
 | [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/1318-minimum-flips-to-make-a-or-b-equal-to-c) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
@@ -336,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/0560-subarray-sum-equals-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/1004-max-consecutive-ones-iii) |
+| [1310-xor-queries-of-a-subarray](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/1310-xor-queries-of-a-subarray) |
 | [1480-running-sum-of-1d-array](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/1732-find-the-highest-altitude) |
 | [2485-find-the-pivot-integer](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/2485-find-the-pivot-integer) |
