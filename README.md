@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2574-left-and-right-sum-differences](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/2574-left-and-right-sum-differences) |
 | [2733-neither-minimum-nor-maximum](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/2733-neither-minimum-nor-maximum) |
 | [2970-count-the-number-of-incremovable-subarrays-i](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/2970-count-the-number-of-incremovable-subarrays-i) |
+| [2997-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/2997-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3668-restore-finishing-order](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/3668-restore-finishing-order) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -328,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1486-xor-operation-in-an-array](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/1486-xor-operation-in-an-array) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/2433-find-the-original-array-of-prefix-xor) |
+| [2997-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/2997-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Prefix Sum
 |  |
