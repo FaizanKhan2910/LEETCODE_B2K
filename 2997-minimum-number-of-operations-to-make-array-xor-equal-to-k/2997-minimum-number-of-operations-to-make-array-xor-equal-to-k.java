@@ -8,7 +8,9 @@ class Solution {
 
         int differeve = (ans) ^ k;
 
+        int solved = Integer.bitCount(differeve);
 
-        return Integer.bitCount(differeve);
+
+        return solved;
     }
 }
