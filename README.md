@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/0240-search-a-2d-matrix-ii) |
+| [0496-next-greater-element-i](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/0560-subarray-sum-equals-k) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/0389-find-the-difference) |
 | [0424-longest-repeating-character-replacement](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/0424-longest-repeating-character-replacement) |
+| [0496-next-greater-element-i](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/0560-subarray-sum-equals-k) |
 | [0888-fair-candy-swap](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/0888-fair-candy-swap) |
 | [0904-fruit-into-baskets](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/0904-fruit-into-baskets) |
@@ -362,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/0445-add-two-numbers-ii) |
+| [0496-next-greater-element-i](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/0496-next-greater-element-i) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 ## Counting
@@ -422,6 +425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/0084-largest-rectangle-in-histogram) |
+| [0496-next-greater-element-i](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/0496-next-greater-element-i) |
 ## Range Minimum/Maximum Query
 |  |
 | ------- |
