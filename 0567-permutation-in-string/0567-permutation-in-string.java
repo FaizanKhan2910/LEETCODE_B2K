@@ -3,10 +3,13 @@ class Solution {
         
        int[] freq1  = new int[26];
        int[] freq2  = new int[26];
-
-       for(char ch : s1.toCharArray()){
-        freq1[ch - 'a']++;
-       }
+int m = 0 ;
+      while(m < s1.length()){
+            freq1[s1.charAt(m) - 'a']++;
+            m++;
+      }
+       
+       
 
        int i = 0 ;
         int j = 0;
