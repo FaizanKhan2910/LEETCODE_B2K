@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/0240-search-a-2d-matrix-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/0496-next-greater-element-i) |
+| [0523-continuous-subarray-sum](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/0560-subarray-sum-equals-k) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0445-add-two-numbers-ii](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/0445-add-two-numbers-ii) |
 | [0492-construct-the-rectangle](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/0492-construct-the-rectangle) |
 | [0504-base-7](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/0504-base-7) |
+| [0523-continuous-subarray-sum](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/0523-continuous-subarray-sum) |
 | [0877-stone-game](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/0877-stone-game) |
 | [1154-day-of-the-year](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/1154-day-of-the-year) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -189,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/0496-next-greater-element-i) |
+| [0523-continuous-subarray-sum](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/0567-permutation-in-string) |
 | [0888-fair-candy-swap](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/0888-fair-candy-swap) |
@@ -354,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/0238-product-of-array-except-self) |
+| [0523-continuous-subarray-sum](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/0560-subarray-sum-equals-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/1004-max-consecutive-ones-iii) |
 | [1310-xor-queries-of-a-subarray](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/1310-xor-queries-of-a-subarray) |
@@ -469,4 +473,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/0451-sort-characters-by-frequency) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0523-continuous-subarray-sum](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/0523-continuous-subarray-sum) |
 <!---LeetCode Topics End-->
