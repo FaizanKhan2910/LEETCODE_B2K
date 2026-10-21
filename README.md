@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1684-count-the-number-of-consistent-strings](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1732-find-the-highest-altitude](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/1732-find-the-highest-altitude) |
 | [1748-sum-of-unique-elements](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/1748-sum-of-unique-elements) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/2114-maximum-number-of-words-found-in-sentences) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1688-count-of-matches-in-tournament](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/1688-count-of-matches-in-tournament) |
 | [1716-calculate-money-in-leetcode-bank](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/1716-calculate-money-in-leetcode-bank) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2235-add-two-integers](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/2235-add-two-integers) |
 | [2485-find-the-pivot-integer](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/2485-find-the-pivot-integer) |
@@ -360,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1486-xor-operation-in-an-array](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/1486-xor-operation-in-an-array) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/1684-count-the-number-of-consistent-strings) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2997-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/2997-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -474,11 +477,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2970-count-the-number-of-incremovable-subarrays-i](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/2970-count-the-number-of-incremovable-subarrays-i) |
 ## Backtracking
 |  |
 | ------- |
 | [0078-subsets](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/0078-subsets) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -487,4 +492,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/0523-continuous-subarray-sum) |
+## Combinatorics
+|  |
+| ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/1863-sum-of-all-subset-xor-totals) |
 <!---LeetCode Topics End-->
