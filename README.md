@@ -187,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/0389-find-the-difference) |
 | [0424-longest-repeating-character-replacement](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/0424-longest-repeating-character-replacement) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0451-sort-characters-by-frequency](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/0567-permutation-in-string) |
@@ -250,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/0229-majority-element-ii) |
 | [0389-find-the-difference](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/0389-find-the-difference) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0451-sort-characters-by-frequency](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/0451-sort-characters-by-frequency) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0888-fair-candy-swap](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/0888-fair-candy-swap) |
 | [0905-sort-array-by-parity](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/0905-sort-array-by-parity) |
@@ -285,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/0424-longest-repeating-character-replacement) |
 | [0434-number-of-segments-in-a-string](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/0434-number-of-segments-in-a-string) |
+| [0451-sort-characters-by-frequency](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/0451-sort-characters-by-frequency) |
 | [0504-base-7](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/0504-base-7) |
 | [0567-permutation-in-string](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/0567-permutation-in-string) |
 | [0709-to-lower-case](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/0709-to-lower-case) |
@@ -379,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0229-majority-element-ii](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/0229-majority-element-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/0387-first-unique-character-in-a-string) |
+| [0451-sort-characters-by-frequency](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/0451-sort-characters-by-frequency) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/1512-number-of-good-pairs) |
@@ -448,6 +452,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/0239-sliding-window-maximum) |
+| [0451-sort-characters-by-frequency](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/0451-sort-characters-by-frequency) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -460,4 +465,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/0078-subsets) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
