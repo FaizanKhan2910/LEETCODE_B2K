@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/0171-excel-sheet-column-number) |
 | [0202-happy-number](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/0202-happy-number) |
 | [0367-valid-perfect-square](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/0367-valid-perfect-square) |
+| [0371-sum-of-two-integers](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/0371-sum-of-two-integers) |
 | [0412-fizz-buzz](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/0412-fizz-buzz) |
 | [0445-add-two-numbers-ii](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/0445-add-two-numbers-ii) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/0453-minimum-moves-to-equal-array-elements) |
@@ -354,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0190-reverse-bits](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/0191-number-of-1-bits) |
 | [0338-counting-bits](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/0338-counting-bits) |
+| [0371-sum-of-two-integers](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/0371-sum-of-two-integers) |
 | [0389-find-the-difference](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/0389-find-the-difference) |
 | [0693-binary-number-with-alternating-bits](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/0693-binary-number-with-alternating-bits) |
 | [1310-xor-queries-of-a-subarray](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/1310-xor-queries-of-a-subarray) |
