@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0888-fair-candy-swap](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/0888-fair-candy-swap) |
 | [0904-fruit-into-baskets](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/0904-fruit-into-baskets) |
 | [0905-sort-array-by-parity](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/0905-sort-array-by-parity) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/1004-max-consecutive-ones-iii) |
 | [1051-height-checker](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/1051-height-checker) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/0567-permutation-in-string) |
 | [0888-fair-candy-swap](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/0888-fair-candy-swap) |
 | [0904-fruit-into-baskets](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/0904-fruit-into-baskets) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/1394-find-lucky-integer-in-an-array) |
@@ -380,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/0238-product-of-array-except-self) |
 | [0523-continuous-subarray-sum](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/0560-subarray-sum-equals-k) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/1004-max-consecutive-ones-iii) |
 | [1310-xor-queries-of-a-subarray](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/1310-xor-queries-of-a-subarray) |
 | [1480-running-sum-of-1d-array](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/1480-running-sum-of-1d-array) |
