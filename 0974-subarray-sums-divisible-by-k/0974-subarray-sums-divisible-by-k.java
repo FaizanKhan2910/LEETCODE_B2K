@@ -1,8 +1,8 @@
 class Solution {
     public int subarraysDivByK(int[] nums, int k) {
-   HashMap<Integer , Integer> map = new HashMap<>();
+   int[] freq = new int[k];
 
-   map.put(0 , 1);
+freq[0] = 1;
         int count = 0;
 
     
@@ -11,15 +11,15 @@ class Solution {
             {
                 sum += num;
 
-                int rem = ((sum % k) + k ) % k; // bhai ye line -ve  nahianedegi 
-                //kyuki +k hokar +ve baenga and then answer tumhra rem vahi rahega
+                int rem  = sum % k;
 
-                if(map.containsKey(rem))
+                if( rem < 0)
                 {
-                    count += map.get(rem);
+                    rem += k;
                 }
 
-                map.put(rem , map.getOrDefault(rem , 0) + 1);
+                count += freq[rem];
+                freq[rem]++;
             }
         
 
