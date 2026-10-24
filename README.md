@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1684-count-the-number-of-consistent-strings](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1732-find-the-highest-altitude](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/1732-find-the-highest-altitude) |
 | [1748-sum-of-unique-elements](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/1748-sum-of-unique-elements) |
+| [1816-truncate-sentence](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/1816-truncate-sentence) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -327,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1678-goal-parser-interpretation](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/1678-goal-parser-interpretation) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/1684-count-the-number-of-consistent-strings) |
+| [1816-truncate-sentence](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/1816-truncate-sentence) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## String Matching
