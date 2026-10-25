@@ -1,25 +1,18 @@
 class Solution {
     public boolean wordPattern(String pattern, String s) {
-
+Map map = new HashMap<>();
       String[] str = s.split(" ");
       if(pattern.length() != str.length){
         return false;
       }
 
-      for(int i = 0 ; i < pattern.length() - 1; i++)
+      for(Integer i = 0 ; i < str.length; ++i)
       {
-         for(int j = i + 1 ; j < pattern.length(); j++)
-         {
-            if(pattern.charAt(i) == pattern.charAt(j)
-            && !str[i].equals(str[j])){
+        if(map.put(pattern.charAt(i) , i) != map.put(str[i] , i )){
+        
                 return false;
             }
-
-             if(pattern.charAt(i) != pattern.charAt(j)
-            && str[i].equals(str[j])){
-                return false;
-            }
-         }
+         
       }  
       return true;
     }
