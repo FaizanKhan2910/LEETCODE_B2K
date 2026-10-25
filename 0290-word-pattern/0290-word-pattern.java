@@ -6,7 +6,7 @@ Map map = new HashMap<>();
         return false;
       }
 
-      for(Integer i = 0 ; i < str.length; ++i)
+      for(Integer i = 0 ; i < str.length; i++)
       {
         if(map.put(pattern.charAt(i) , i) != map.put(str[i] , i )){
         
