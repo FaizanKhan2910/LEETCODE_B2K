@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-find-target-indices-after-sorting-array](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
+| [2210-count-hills-and-valleys-in-an-array](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/2210-count-hills-and-valleys-in-an-array) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2239-find-closest-number-to-zero](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/2239-find-closest-number-to-zero) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/2433-find-the-original-array-of-prefix-xor) |
