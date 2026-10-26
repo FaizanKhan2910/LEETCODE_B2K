@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1816-truncate-sentence](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/1816-truncate-sentence) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
+| [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
@@ -268,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2970-count-the-number-of-incremovable-subarrays-i](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/2970-count-the-number-of-incremovable-subarrays-i) |
 ## Sorting
@@ -301,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/0881-boats-to-save-people) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/3727-maximum-alternating-sum-of-squares) |
