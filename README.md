@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0496-next-greater-element-i](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/0523-continuous-subarray-sum) |
+| [0525-contiguous-array](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/0560-subarray-sum-equals-k) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0724-find-pivot-index](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/0724-find-pivot-index) |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/0523-continuous-subarray-sum) |
+| [0525-contiguous-array](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/0567-permutation-in-string) |
 | [0888-fair-candy-swap](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/0888-fair-candy-swap) |
@@ -407,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/0238-product-of-array-except-self) |
 | [0523-continuous-subarray-sum](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/0523-continuous-subarray-sum) |
+| [0525-contiguous-array](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/0724-find-pivot-index) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/0974-subarray-sums-divisible-by-k) |
