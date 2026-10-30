@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/0056-merge-intervals) |
+| [0057-insert-interval](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/0057-insert-interval) |
 | [0078-subsets](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/0084-largest-rectangle-in-histogram) |
 | [0128-longest-consecutive-sequence](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/0128-longest-consecutive-sequence) |
