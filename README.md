@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/0054-spiral-matrix) |
+| [0056-merge-intervals](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/0056-merge-intervals) |
 | [0078-subsets](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/0084-largest-rectangle-in-histogram) |
 | [0128-longest-consecutive-sequence](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/0128-longest-consecutive-sequence) |
@@ -283,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/0056-merge-intervals) |
 | [0148-sort-list](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/0148-sort-list) |
 | [0217-contains-duplicate](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/0229-majority-element-ii) |
@@ -546,4 +548,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0881-boats-to-save-people](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/0881-boats-to-save-people) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
