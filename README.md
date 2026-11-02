@@ -553,4 +553,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/0056-merge-intervals) |
+## Database
+|  |
+| ------- |
+| [0178-rank-scores](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/0178-rank-scores) |
 <!---LeetCode Topics End-->
