@@ -265,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/0905-sort-array-by-parity) |
 | [0986-interval-list-intersections](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/0986-interval-list-intersections) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1768-merge-strings-alternately](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/1768-merge-strings-alternately) |
 | [2970-count-the-number-of-incremovable-subarrays-i](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/2970-count-the-number-of-incremovable-subarrays-i) |
 ## Floyd's Cycle Finding Algorithm
 |  |
@@ -356,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1678-goal-parser-interpretation](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/1678-goal-parser-interpretation) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/1684-count-the-number-of-consistent-strings) |
+| [1768-merge-strings-alternately](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/1768-merge-strings-alternately) |
 | [1816-truncate-sentence](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/1816-truncate-sentence) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/2114-maximum-number-of-words-found-in-sentences) |
