@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/0904-fruit-into-baskets) |
 | [0905-sort-array-by-parity](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/0905-sort-array-by-parity) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/0974-subarray-sums-divisible-by-k) |
+| [0986-interval-list-intersections](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/0986-interval-list-intersections) |
 | [1004-max-consecutive-ones-iii](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/1004-max-consecutive-ones-iii) |
 | [1051-height-checker](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/1051-height-checker) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
@@ -260,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0876-middle-of-the-linked-list](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/0876-middle-of-the-linked-list) |
 | [0881-boats-to-save-people](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/0905-sort-array-by-parity) |
+| [0986-interval-list-intersections](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/0986-interval-list-intersections) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2970-count-the-number-of-incremovable-subarrays-i](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/2970-count-the-number-of-incremovable-subarrays-i) |
 ## Floyd's Cycle Finding Algorithm
@@ -568,4 +570,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/0347-top-k-frequent-elements) |
+## Sweep Line
+|  |
+| ------- |
+| [0986-interval-list-intersections](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/0986-interval-list-intersections) |
 <!---LeetCode Topics End-->
